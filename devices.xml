@@ -49,4 +49,8 @@ sensitive and must match.
   <developer id="29" name="panMillenium">
     <dev id="1" name="panmillenium1" label="Crouzet Millenium 3 wireless interface by panSTamp"/>
   </developer>
+  <developer id="51" name="kuttel">
+    <dev id="1" name="dhtinput" label="DHT Sensor and Inputs"/>
+    <dev id="2" name="thr" label="Dual Temperature-Humidity-Sensor and Relay-Actor"/>
+  </developer>
 </devices>
