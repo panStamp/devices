@@ -25,8 +25,8 @@ sensitive and must match.
     <dev id="12" name="binouts2" label="Advanced Binary/PWM output module + repeater"/>
     <dev id="13" name="respira" label="Respira sensor for CO and NO2"/>
     <dev id="14" name="soilmoisture" label="Soil moisture sensor"/>
-    <dev id="15" name="easyvr" label="EasyVR voice recognition module"/>
-    <dev id="16" name="firmloader" label="Firmware server"/>
+    <dev id="15" name="co2meter" label="CO2 and temperature-humidity sensor"/>
+    <dev id="16" name="firmserver" label="Firmware server"/>
     <dev id="17" name="idtag" label="Identification tag transmitter"/>
     <dev id="4278190080" name="unprogrammed" label="Unprogrammed device"/>
   </developer>
