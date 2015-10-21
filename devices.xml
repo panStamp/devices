@@ -28,6 +28,7 @@ sensitive and must match.
     <dev id="15" name="easyvr" label="EasyVR voice recognition module"/>
     <dev id="16" name="firmloader" label="Firmware server"/>
     <dev id="17" name="idtag" label="Identification tag transmitter"/>
+    <dev id="18" name="currentmeter" label="3-Channel current meter"/>
     <dev id="4278190080" name="unprogrammed" label="Unprogrammed device"/>
   </developer>
   <developer id="17" name="Robomotic">
