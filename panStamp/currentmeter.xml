@@ -31,14 +31,14 @@
           <unit name="mA" factor="1" offset="0"/>
         </units>
       </endpoint>
-      <endpoint name="Channel 1" type="num" dir="inp">
+      <endpoint name="Channel 2" type="num" dir="inp">
         <position>4</position>
         <size>4</size>
         <units>
           <unit name="mA" factor="1" offset="0"/>
         </units>
       </endpoint>
-      <endpoint name="Channel 1" type="num" dir="inp">
+      <endpoint name="Channel 3" type="num" dir="inp">
         <position>8</position>
         <size>4</size>
         <units>
