@@ -3,6 +3,15 @@
   <developer>panStamp</developer>
   <product>Co2 meter</product>
   <pwrdownmode>true</pwrdownmode>
+  <config>
+    <reg name="Calibration" id="14">
+      <param name="Zero calibration" type="bin">
+        <position>0</position>
+        <size>1</size>
+        <default>0</default>
+      </param>
+    </reg>
+  </config>
   <regular>
     <reg name="Voltage supply" id="11">
       <endpoint name="Voltage" type="num" dir="inp">
@@ -16,7 +25,7 @@
       <endpoint name="Co2 meter" type="num" dir="inp">
         <position>0</position>
         <size>2</size>
-	<units>
+	      <units>
           <unit name="ppm" factor="1" offset="0"/>
         </units>
       </endpoint>
