@@ -3,6 +3,26 @@
   <developer>panStamp</developer>
   <product>Identification tag transmitter</product>
   <pwrdownmode>true</pwrdownmode>
+    <config>
+    <reg name="Optional configuration data" id="13">
+      <param name="Rx interval" type="num" dir="out">
+        <position>0</position>
+        <size>2</size>
+      </param>
+      <param name="Tx interval" type="num" dir="out">
+        <position>2</position>
+        <size>2</size>
+      </param>
+      <param name="Vcc Tx interval" type="num" dir="out">
+        <position>4</position>
+        <size>2</size>
+      </param>
+      <param name="Tx power" type="num" dir="out">
+        <position>6</position>
+        <size>1</size>
+      </param>
+    </reg>
+  </config>
   <regular>
     <reg name="Voltage supply" id="11">
       <endpoint name="Voltage" type="num" dir="inp">
