@@ -56,4 +56,8 @@ sensitive and must match.
     <dev id="1" name="dhtinput" label="DHT Sensor and Inputs"/>
     <dev id="2" name="thr" label="Dual Temperature-Humidity-Sensor and Relay-Actor"/>
   </developer>
+  <developer id="79" name="LGCgE">
+    <dev id="1" name="multicap" label="Multi-sensor board"/>
+    <dev id="2" name="multicap-co2" label="Multi-sensor board with Co2"/>
+  </developer>
 </devices>
