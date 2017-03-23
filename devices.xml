@@ -60,4 +60,11 @@ sensitive and must match.
     <dev id="1" name="multicap" label="Multi-sensor board"/>
     <dev id="2" name="multicap-co2" label="Multi-sensor board with Co2"/>
   </developer>
+	<developer id="81" name="HBRS">
+		<dev id="1" name="temphumpress" label="Temperature/Humidity/Pressure environmentalsensor"/>
+		<dev id="2" name="temphumpressgas" label="Temperature/Humidity/Pressure/Gas"/>
+	<developer>
+  <developer id="82" name="keytree">
+    <dev id="1" name="head-sensor" label="Head-sensor board"/>
+  </developer>
 </devices>

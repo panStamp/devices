@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<device>
+  <developer>HBRS</developer>
+  <product>Temperature-Humidity-Pressure sensor</product>
+  <pwrdownmode>true</pwrdownmode>
+  <regular>
+    <reg name="Voltage supply" id="11">
+      <endpoint name="Voltage" type="num" dir="inp">
+        <size>2</size>
+        <units>
+          <unit name="V" factor="0.001" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="Humidity Temperature and Pressure" id="12">
+      <endpoint name="Temperature" type="num" dir="inp">
+        <position>0</position>
+        <size>2</size>
+        <units>
+          <unit name="C" factor="0.01" offset="-50"/>
+        </units>
+      </endpoint>
+      <endpoint name="Humidity" type="num" dir="inp">
+        <position>2</position>
+        <size>2</size>
+        <units>
+          <unit name="%" factor="0.01" offset="0"/>
+        </units>
+      </endpoint>
+	  <endpoint name="Pressure" type="num" dir="inp">
+        <position>4</position>
+        <size>2</size>
+        <units>
+          <unit name="hP" factor="0.01" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+  </regular>
+</device>
