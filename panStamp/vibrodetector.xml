@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <device>
   <developer>panStamp</developer>
-  <product>Temperature sensor</product>
+  <product>Motion sensor</product>
   <pwrdownmode>true</pwrdownmode>
   <regular>
     <reg name="Sensor data" id="11">
