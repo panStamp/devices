@@ -39,147 +39,147 @@
         </units>
       </endpoint>
       <endpoint name="Pre X 1" type="num" dir="inp">
-        <position>1</position>
+        <position>7</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 1" type="num" dir="inp">
-        <position>3</position>
+        <position>9</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 1" type="num" dir="inp">
-        <position>5</position>
+        <position>11</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre X 2" type="num" dir="inp">
-        <position>1</position>
+        <position>13</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 2" type="num" dir="inp">
-        <position>3</position>
+        <position>15</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 2" type="num" dir="inp">
-        <position>5</position>
+        <position>17</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre X 3" type="num" dir="inp">
-        <position>1</position>
+        <position>19</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 3" type="num" dir="inp">
-        <position>3</position>
+        <position>21</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 3" type="num" dir="inp">
-        <position>5</position>
+        <position>23</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre X 4" type="num" dir="inp">
-        <position>1</position>
+        <position>25</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 4" type="num" dir="inp">
-        <position>3</position>
+        <position>27</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 4" type="num" dir="inp">
-        <position>5</position>
+        <position>29</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre X 5" type="num" dir="inp">
-        <position>1</position>
+        <position>31</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 5" type="num" dir="inp">
-        <position>3</position>
+        <position>33</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 5" type="num" dir="inp">
-        <position>5</position>
+        <position>35</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre X 6" type="num" dir="inp">
-        <position>1</position>
+        <position>37</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 6" type="num" dir="inp">
-        <position>3</position>
+        <position>39</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 6" type="num" dir="inp">
-        <position>5</position>
+        <position>41</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre X 7" type="num" dir="inp">
-        <position>1</position>
+        <position>43</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Y 7" type="num" dir="inp">
-        <position>3</position>
+        <position>45</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Pre Z 7" type="num" dir="inp">
-        <position>5</position>
+        <position>47</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
@@ -213,147 +213,147 @@
         </units>
       </endpoint>
       <endpoint name="Post X 1" type="num" dir="inp">
-        <position>1</position>
+        <position>7</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 1" type="num" dir="inp">
-        <position>3</position>
+        <position>9</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 1" type="num" dir="inp">
-        <position>5</position>
+        <position>11</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post X 2" type="num" dir="inp">
-        <position>1</position>
+        <position>13</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 2" type="num" dir="inp">
-        <position>3</position>
+        <position>15</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 2" type="num" dir="inp">
-        <position>5</position>
+        <position>17</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post X 3" type="num" dir="inp">
-        <position>1</position>
+        <position>19</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 3" type="num" dir="inp">
-        <position>3</position>
+        <position>21</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 3" type="num" dir="inp">
-        <position>5</position>
+        <position>23</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post X 4" type="num" dir="inp">
-        <position>1</position>
+        <position>25</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 4" type="num" dir="inp">
-        <position>3</position>
+        <position>27</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 4" type="num" dir="inp">
-        <position>5</position>
+        <position>29</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post X 5" type="num" dir="inp">
-        <position>1</position>
+        <position>31</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 5" type="num" dir="inp">
-        <position>3</position>
+        <position>33</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 5" type="num" dir="inp">
-        <position>5</position>
+        <position>35</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post X 6" type="num" dir="inp">
-        <position>1</position>
+        <position>37</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 6" type="num" dir="inp">
-        <position>3</position>
+        <position>39</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 6" type="num" dir="inp">
-        <position>5</position>
+        <position>41</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post X 7" type="num" dir="inp">
-        <position>1</position>
+        <position>43</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Y 7" type="num" dir="inp">
-        <position>3</position>
+        <position>45</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
         </units>
       </endpoint>
       <endpoint name="Post Z 7" type="num" dir="inp">
-        <position>5</position>
+        <position>47</position>
         <size>2</size>
         <units>
           <unit name="g" factor="0.01" offset="-100"/>
