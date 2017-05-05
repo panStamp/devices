@@ -374,168 +374,168 @@
         <position>1</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 0" type="num" dir="inp">
         <position>3</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 0" type="num" dir="inp">
         <position>5</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 1" type="num" dir="inp">
         <position>7</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 1" type="num" dir="inp">
         <position>9</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 1" type="num" dir="inp">
         <position>11</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 2" type="num" dir="inp">
         <position>13</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 2" type="num" dir="inp">
         <position>15</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 2" type="num" dir="inp">
         <position>17</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 3" type="num" dir="inp">
         <position>19</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 3" type="num" dir="inp">
         <position>21</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 3" type="num" dir="inp">
         <position>23</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 4" type="num" dir="inp">
         <position>25</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 4" type="num" dir="inp">
         <position>27</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 4" type="num" dir="inp">
         <position>29</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 5" type="num" dir="inp">
         <position>31</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 5" type="num" dir="inp">
         <position>33</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 5" type="num" dir="inp">
         <position>35</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 6" type="num" dir="inp">
         <position>37</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 6" type="num" dir="inp">
         <position>39</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 6" type="num" dir="inp">
         <position>41</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre X 7" type="num" dir="inp">
         <position>43</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Y 7" type="num" dir="inp">
         <position>45</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Pre Z 7" type="num" dir="inp">
         <position>47</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
     </reg>
@@ -548,168 +548,168 @@
         <position>1</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 0" type="num" dir="inp">
         <position>3</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 0" type="num" dir="inp">
         <position>5</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 1" type="num" dir="inp">
         <position>7</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 1" type="num" dir="inp">
         <position>9</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 1" type="num" dir="inp">
         <position>11</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 2" type="num" dir="inp">
         <position>13</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 2" type="num" dir="inp">
         <position>15</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 2" type="num" dir="inp">
         <position>17</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 3" type="num" dir="inp">
         <position>19</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 3" type="num" dir="inp">
         <position>21</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 3" type="num" dir="inp">
         <position>23</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 4" type="num" dir="inp">
         <position>25</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 4" type="num" dir="inp">
         <position>27</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 4" type="num" dir="inp">
         <position>29</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 5" type="num" dir="inp">
         <position>31</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 5" type="num" dir="inp">
         <position>33</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 5" type="num" dir="inp">
         <position>35</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 6" type="num" dir="inp">
         <position>37</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 6" type="num" dir="inp">
         <position>39</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 6" type="num" dir="inp">
         <position>41</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post X 7" type="num" dir="inp">
         <position>43</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Y 7" type="num" dir="inp">
         <position>45</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
       <endpoint name="Gyro Post Z 7" type="num" dir="inp">
         <position>47</position>
         <size>2</size>
         <units>
-          <unit name="dps" factor="0.001" offset="-32700"/>
+          <unit name="dps" factor="0.001" offset="-32.7"/>
         </units>
       </endpoint>
     </reg>
