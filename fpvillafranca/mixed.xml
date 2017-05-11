@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<device>
+  <developer>Instituto de FP Villafranca</developer>
+  <product>Mixed board with 1 analog input and 1 binary output</product>
+  <pwrdownmode>true</pwrdownmode>
+  <regular>
+    <reg name="Analog data" id="11">
+      <endpoint name="Voltage" type="num" dir="inp">
+        <position>0</position>
+        <size>2</size>
+        <units>
+          <unit name="V" factor="0.001" offset="0"/>
+        </units>
+      </endpoint>
+      <endpoint name="analog input" type="num" dir="inp">
+        <position>2</position>
+        <size>2</size>
+      </endpoint>
+    </reg>
+  </regular>
+</device>

@@ -67,4 +67,7 @@ sensitive and must match.
   <developer id="82" name="keytree">
     <dev id="1" name="head-sensor" label="Head-sensor board"/>
   </developer>
+  <developer id="83" name="fpvillafranca">
+    <dev id="1" name="mixed" label="Mixed board with 1 analog input and 1 binary output"/>
+  </developer>
 </devices>
