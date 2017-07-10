@@ -31,6 +31,7 @@ sensitive and must match.
     <dev id="18" name="currentmeter" label="3-Channel current meter"/>
     <dev id="19" name="vibrodetector" label="Motion, vibration and temperature sensor"/>
     <dev id="20" name="remote4" label="4-button remote with accelerometer and temperature sensor"/>
+    <dev id="21" name="temphumpanel" label="Dual Temperature/Humidity sensor with 8 binary switches"/>
     <dev id="4278190080" name="unprogrammed" label="Unprogrammed device"/>
   </developer>
   <developer id="17" name="Robomotic">
