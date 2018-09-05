@@ -32,6 +32,7 @@ sensitive and must match.
     <dev id="19" name="vibrodetector" label="Motion, vibration and temperature sensor"/>
     <dev id="20" name="remote4" label="4-button remote with accelerometer and temperature sensor"/>
     <dev id="21" name="temphumpanel" label="Dual Temperature/Humidity sensor with 8 binary switches"/>
+    <dev id="22" name="iaqmeter" label="Indoor Air Quality meter"/>
     <dev id="4278190080" name="unprogrammed" label="Unprogrammed device"/>
   </developer>
   <developer id="17" name="Robomotic">
@@ -71,4 +72,9 @@ sensitive and must match.
   <developer id="83" name="fpvillafranca">
     <dev id="1" name="mixed" label="Mixed board with 1 analog input and 1 binary output"/>
   </developer>
+<developer id="84" name="neways">
+    <dev id="1" name="trashbin" label="Trashbin sensor"/>
+    <dev id="2" name="moisture" label="Soil moisture sensor"/>
+    <dev id="3" name="movement" label="Movement sensor"/>
+</developer>
 </devices>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<device>
+  <developer>Neways</developer>
+  <product>Person detection sensor</product>
+  <pwrdownmode>true</pwrdownmode>
+  <regular>
+    <reg name="Voltage supply" id="11">
+      <endpoint name="Voltage" type="num" dir="inp">
+        <size>2</size>
+        <units>
+          <unit name="V" factor="0.001" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="Temperature" id="12">
+      <endpoint name="Temperature" type="num" dir="inp">
+        <size>4</size>
+        <units>
+          <unit name="C" factor="0.001" offset="-273.15"/>
+          <unit name="F" factor="0.0018" offset="-459.67"/>
+          <unit name="K" factor="0.001" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="Movement detection" id="13">
+      <endpoint name="Movement detection" type="num" dir="inp">
+        <size>2</size>
+        <units>
+          <unit name="" factor="1.0" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="X-axis value" id="14">
+      <endpoint name="X-axis" type="num" dir="inp">
+        <size>4</size>
+        <units>
+          <unit name="" factor="1.0" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="Y-axis value " id="15">
+      <endpoint name="Y-axis" type="num" dir="inp">
+        <size>4</size>
+        <units>
+          <unit name="" factor="1.0" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="Z-axis value " id="16">
+      <endpoint name="Z-axis" type="num" dir="inp">
+        <size>4</size>
+        <units>
+          <unit name="" factor="1.0" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+    <reg name="Number of movements per interval" id="17">
+      <endpoint name="Number of movements" type="num" dir="inp">
+        <size>2</size>
+        <units>
+          <unit name="" factor="1.0" offset="0"/>
+        </units>
+      </endpoint>
+    </reg>
+
+  </regular>
+</device>
